@@ -355,10 +355,13 @@ header .navbar ul li a:hover{
 }
 
 .skills .content .col-right .bar .react:before{
-    width:40%;
+    width:60%;
     background: #9c7e97;
 }
-
+.skills .content .col-right .bar .php:before{
+    width:40%;
+    background: #74ac25;
+}
 .skills .content .col-right .bar .node:before{
     width:65%;
     background: #313e4e;
